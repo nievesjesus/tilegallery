@@ -1,2 +1,2 @@
 # tilegallery
-tile galleri files
+tile gallery files
